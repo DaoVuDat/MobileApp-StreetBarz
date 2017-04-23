@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StreetBarz</string>
+    <string name="title">Street Barz</string>
+    <string name="action_about">Dao Vu Dat - 1451013</string>
+    <string name="description">Created by Dao Vu Dat - Routines from Madbarz</string>
+    <string name="title_activity_about_app">AboutApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">328794677469850</string>
+    <string name="title_activity_exercises">Exercises</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_section1">Basic</string>
+    <string name="title_section2">Medium</string>
+    <string name="title_section3">Advanced</string>
+    <string name="timerVal">00:30</string>
+    <string name="next">Next</string>
+
+</resources>

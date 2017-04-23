@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/exercises"
+            android:icon="@drawable/str"
+            android:title="Exercises" />
+        <item
+            android:id="@+id/information"
+            android:icon="@drawable/inf"
+            android:title="Information App" />
+        <item
+            android:id="@+id/AboutUs"
+            android:icon="@drawable/about"
+            android:checkable="false"
+            android:title="About us" />
+
+
+    </group>
+    <item android:title="Facebook" >
+        <menu>
+            <item
+                android:id="@+id/fbin"
+                android:icon="@drawable/fac"
+                android:title="Login" />
+            <item
+                android:id="@+id/fbout"
+                android:icon="@drawable/logout"
+                android:title="Logout" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>
